@@ -16,7 +16,7 @@ A simple currency converter built with React. Converts between 150+ currencies u
 
 ## Getting Started
 ```bash
-git clone https://github.com/yourusername/react-currency-converter\
+git clone https://github.com/musawerxd/react-currency-converter\
 ```
 ```bash
 cd react-currency-converter
